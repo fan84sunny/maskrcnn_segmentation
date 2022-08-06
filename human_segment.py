@@ -115,6 +115,6 @@ class MRCNN:
         plt.yticks([])
         plt.show()
 
-
-maskedCNN = MRCNN()
-maskedCNN.instance_segmentation_api(img_path='./input/image2.jpg')
+if __name__ == “main”:
+    maskedCNN = MRCNN()
+    maskedCNN.instance_segmentation_api(img_path='./input/image2.jpg')
