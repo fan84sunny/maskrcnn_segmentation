@@ -3,3 +3,4 @@ Mask R-CNN Instance Segmentation with PyTorch. Reference: https://learnopencv.co
 
 ## Notes
 * https://www.gushiciku.cn/pl/gbLg/zh-tw
+* https://blog.csdn.net/weixin_42419002/article/details/88820891
